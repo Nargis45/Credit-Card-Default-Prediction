@@ -100,4 +100,12 @@ Out of all these models RandomForestRegressor is the best performer in terms of 
 
 The strongest predictors of default are the PAY_AMTX, the LIMIT_BAL & the BILL_AMT_X, PAY_X, AGE and SEX on the basis of models used.
 
+Using a Logistic Regression classifier, we can predict with ~60% accuracy, whether a customer is likely to default next month.
+
+Using a Decision Tree classifier, we can predict with ~76% accuracy, whether a customer is likely to default next month.
+
+Using a Random Forest classifier, we can predict with ~85% accuracy, whether a customer is likely to default next month.
+
+It mean out of 100 defaulters 85 will be correctly caught by Random Forest Classifier.
+
 **Demographics:** We see that being Female, More educated, Single and between 30-40 years old means a customer is more likely to make payments on time.
