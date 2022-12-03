@@ -98,4 +98,6 @@ After hyper parameter tuning, we have prevented overfitting and decreased errors
 
 Out of all these models RandomForestRegressor is the best performer in terms of f1-score.
 
-The strongest predictors of default are the PAY_AMTX, the LIMIT_BAL & the PAY_AMTX.
+The strongest predictors of default are the PAY_AMTX, the LIMIT_BAL & the BILL_AMT_X, PAY_X, AGE and SEX on the basis of models used.
+
+**Demographics:** We see that being Female, More educated, Single and between 30-40 years old means a customer is more likely to make payments on time.
