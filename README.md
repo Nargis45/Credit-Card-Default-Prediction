@@ -1,5 +1,5 @@
 ![Surviving-a-Credit-Card-Default](https://user-images.githubusercontent.com/60965420/205428396-f01f1512-733d-42b2-9ffd-edd6c33b0af8.png)
-# Credit-Card-Default-Prediction
+# Credit Card Default Prediction
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. We can use the K-S chart to evaluate which customer will default on their credit card payments.
 # **Dataset Information**
 * **Number of instances: 30000**
