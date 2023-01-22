@@ -109,3 +109,6 @@ Using a Random Forest classifier, we can predict with ~85% accuracy, whether a c
 It mean out of 100 defaulters 85 will be correctly caught by Random Forest Classifier.
 
 **Demographics:** We see that being Female, More educated, Single and between 30-40 years old means a customer is more likely to make payments on time.
+
+![16141199232018](https://user-images.githubusercontent.com/60965420/213905676-1e5e0de6-14de-49fe-81eb-9e68238b1fe5.png)
+
